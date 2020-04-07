@@ -64,3 +64,8 @@ h1{
         width: 100%;
     }
 }
+@media (max-width:278px){
+    .flex-block h2{
+        width: 100%;
+    }
+}
